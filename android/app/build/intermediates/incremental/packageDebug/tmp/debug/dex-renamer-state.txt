@@ -1,0 +1,4 @@
+#Sun May 17 23:02:18 CEST 2020
+base.0=/Users/cumhurduzlu/Git/hue-sync-native/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,6 @@
+module Pods_HueSyncNative_HueSyncNativeTests {
+  umbrella header "Pods-HueSyncNative-HueSyncNativeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

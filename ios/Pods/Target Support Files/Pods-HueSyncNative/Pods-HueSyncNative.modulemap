@@ -1,0 +1,6 @@
+module Pods_HueSyncNative {
+  umbrella header "Pods-HueSyncNative-umbrella.h"
+
+  export *
+  module * { export * }
+}
